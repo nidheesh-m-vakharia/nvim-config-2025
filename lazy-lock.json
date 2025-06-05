@@ -12,6 +12,7 @@
   "deoplete-vim-lsp": { "branch": "master", "commit": "af5432f1e063fd4c3a5879aa8c2afe82c17dc1c9" },
   "deoplete.nvim": { "branch": "master", "commit": "e5a47d4a2f0b2b6f568e708163e2354097e611c6" },
   "dressing.nvim": { "branch": "master", "commit": "2d7c2db2507fa3c4956142ee607431ddb2828639" },
+  "firenvim": { "branch": "master", "commit": "c4ab7d2aeb145cd93db8660cb134f771722f2b5e" },
   "friendly-snippets": { "branch": "main", "commit": "efff286dd74c22f731cdec26a70b46e5b203c619" },
   "fzf-lua": { "branch": "main", "commit": "e6afa1aa22893280720cde1cdd0b0b188d5815af" },
   "gitsigns.nvim": { "branch": "main", "commit": "02eafb1273afec94447f66d1a43fc5e477c2ab8a" },

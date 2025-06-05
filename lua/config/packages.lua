@@ -13,6 +13,8 @@ local packages = {
       })
     end
   },
+  { 'glacambre/firenvim', build = ":call firenvim#install(0)" },
+
   {
     'mrcjkb/rustaceanvim',
     version = '^6', -- Recommended

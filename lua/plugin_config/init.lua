@@ -15,4 +15,5 @@ require("plugin_config.nvim_lspconfig");
 require("plugin_config.prettier");
 require("plugin_config.tailwind");
 require("plugin_config.rust-tools");
+require "copilot".setup();
 
